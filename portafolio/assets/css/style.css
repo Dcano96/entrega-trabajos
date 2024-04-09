@@ -1,0 +1,89 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  font-size: 4.5rem;
+  color: #51a0bf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 3.5rem;
+  color: #51a0bf;
+}
+
+.bg-blue {
+  background-color: black;
+}
+
+.navbar-brand img {
+  width: 6rem;
+  font-size: 3rem;
+}
+
+header img {
+  width: 100%;
+}
+
+.experiencia h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  font-size: 3.5rem;
+}
+#navbarNav li a {
+  color: white;
+  font-size: 1.5rem;
+}
+.col-md-6 {
+  margin-left: 18rem;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.iconos {
+  display: inline-block;
+}
+
+.iconos h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  font-size: 2rem;
+  padding-top: 2rem;
+}
+
+.iconos h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  padding-top: 0.3rem;
+}
+
+.mis-trabajos h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  font-size: 4rem;
+  color: #ffffff;
+}
+
+.rrss {
+  display: inline-block;
+  color: #ffffff;
+}
+footer {
+  display: flex;
+  justify-content: space-around;
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+.iconos-redes a img {
+  height: 2.5rem;
+}
